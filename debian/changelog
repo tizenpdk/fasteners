@@ -1,0 +1,27 @@
+python-fasteners (0.12.0-2ubuntu1) xenial; urgency=low
+
+  * Merge from Debian unstable.  Remaining changes:
+    - d/control: Drop BD on sphinx-rtd-theme for Ubuntu MIR; optional
+      dependency and no documentation is built as part of this package.
+
+ -- James Page <james.page@ubuntu.com>  Thu, 04 Feb 2016 16:49:09 +0000
+
+python-fasteners (0.12.0-2) unstable; urgency=medium
+
+  * Fixed typo in long description (Closes: #802195).
+
+ -- Thomas Goirand <zigo@debian.org>  Fri, 23 Oct 2015 12:24:51 +0000
+
+python-fasteners (0.12.0-1ubuntu1) wily; urgency=medium
+
+  * d/control: Drop BD on sphinx-rtd-theme for Ubuntu MIR; optional
+    dependency and no documentation is built as part of this package.
+
+ -- James Page <james.page@ubuntu.com>  Tue, 04 Aug 2015 11:03:16 +0200
+
+python-fasteners (0.12.0-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #792497)
+
+ -- Thomas Goirand <zigo@debian.org>  Wed, 15 Jul 2015 14:13:32 +0200
+
